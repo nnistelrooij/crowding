@@ -37,9 +37,13 @@ You can run inference on the photograph in the figure above by running `infer.py
 
 ``` bib
 @article{crowding_ai,
-  author={Gabriel Hertig, Niels van Nistelrooij, Jan Schols, Tong Xi, Raphael Patcas, Shankeeth Vinayahalingam},
-  year={2025},
-  title={Quantitative Tooth Crowding Analysis in Occlusal Intra-Oral Photographs using a Convolutional Neural Network},
-  note={Submitted to European Journal of Orthodontics},  
+    author = {Hertig, Gabriel and van Nistelrooij, Niels and Schols, Jan and Xi, Tong and Vinayahalingam, Shankeeth and Patcas, Raphael},
+    title = {Quantitative tooth crowding analysis in occlusal intra-oral photographs using a convolutional neural network},
+    journal = {European Journal of Orthodontics},
+    volume = {47},
+    number = {3},
+    year = {2025},
+    month = {05},
+    doi = {10.1093/ejo/cjaf025},
 }
 ```
